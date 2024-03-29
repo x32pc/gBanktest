@@ -1,0 +1,4 @@
+name: gBanktest
+version: '${project.version}'
+main: com.x32pc.github.gbanktest.GBanktest
+api-version: '1.20'
